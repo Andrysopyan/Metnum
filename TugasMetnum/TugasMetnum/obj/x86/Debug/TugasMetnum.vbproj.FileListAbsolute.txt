@@ -1,0 +1,14 @@
+c:\users\andrysopyan\documents\visual studio 2010\Projects\TugasMetnum\TugasMetnum\bin\Debug\TugasMetnum.exe
+c:\users\andrysopyan\documents\visual studio 2010\Projects\TugasMetnum\TugasMetnum\bin\Debug\TugasMetnum.pdb
+c:\users\andrysopyan\documents\visual studio 2010\Projects\TugasMetnum\TugasMetnum\bin\Debug\TugasMetnum.xml
+c:\users\andrysopyan\documents\visual studio 2010\Projects\TugasMetnum\TugasMetnum\obj\x86\Debug\TugasMetnum.Form1.resources
+c:\users\andrysopyan\documents\visual studio 2010\Projects\TugasMetnum\TugasMetnum\obj\x86\Debug\TugasMetnum.Input.resources
+c:\users\andrysopyan\documents\visual studio 2010\Projects\TugasMetnum\TugasMetnum\obj\x86\Debug\TugasMetnum.input2.resources
+c:\users\andrysopyan\documents\visual studio 2010\Projects\TugasMetnum\TugasMetnum\obj\x86\Debug\TugasMetnum.Input3.resources
+c:\users\andrysopyan\documents\visual studio 2010\Projects\TugasMetnum\TugasMetnum\obj\x86\Debug\TugasMetnum.Input4.resources
+c:\users\andrysopyan\documents\visual studio 2010\Projects\TugasMetnum\TugasMetnum\obj\x86\Debug\TugasMetnum.Input5.resources
+c:\users\andrysopyan\documents\visual studio 2010\Projects\TugasMetnum\TugasMetnum\obj\x86\Debug\TugasMetnum.Resources.resources
+c:\users\andrysopyan\documents\visual studio 2010\Projects\TugasMetnum\TugasMetnum\obj\x86\Debug\TugasMetnum.vbproj.GenerateResource.Cache
+c:\users\andrysopyan\documents\visual studio 2010\Projects\TugasMetnum\TugasMetnum\obj\x86\Debug\TugasMetnum.exe
+c:\users\andrysopyan\documents\visual studio 2010\Projects\TugasMetnum\TugasMetnum\obj\x86\Debug\TugasMetnum.xml
+c:\users\andrysopyan\documents\visual studio 2010\Projects\TugasMetnum\TugasMetnum\obj\x86\Debug\TugasMetnum.pdb
